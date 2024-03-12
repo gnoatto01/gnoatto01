@@ -3,6 +3,8 @@
 
 Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Comprometido com a entrega de soluções robustas e eficientes, estou pronto para enfrentar desafios e colaborar em projetos inovadores. Entusiasta de código limpo, boas práticas de desenvolvimento e colaboração em equipe.
 
+- Em constante aprendizado, atualmente aprendendo React 🧑‍💻
+
 ##
 <div style="display: inline-block;">
   <a href="https://github.com/gnoatto01">
@@ -46,12 +48,3 @@ Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempr
 
 
 
-<!--
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
