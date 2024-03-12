@@ -1,10 +1,8 @@
 ## Olá, me chamo Fernando! 👋
 
 
-Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Gosto muito de desafios
+Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Comprometido com a entrega de soluções robustas e eficientes, estou pronto para enfrentar desafios e colaborar em projetos inovadores. Entusiasta de código limpo, boas práticas de desenvolvimento e colaboração em equipe.
 
-
-- 🔭 Hoje eu trabalho como full-stack
 ##
 <div style="display: inline-block;">
   <a href="https://github.com/gnoatto01">
@@ -13,22 +11,18 @@ Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Gosto muito
 </div>
     
 ##
-### Skillls
+### Skills
 
 <div>
-  <img title="Javascript" alt="Javascript"height="50em" src="https://skillicons.dev/icons?i=js">
-  <img title="Typescript" alt="Typescript" height="50em" src="https://skillicons.dev/icons?i=ts">
-  <img title="React" alt="React" height="50em" src="https://skillicons.dev/icons?i=react">
-  <img title="Vite" alt="Vite" height="50em" src="https://skillicons.dev/icons?i=vite">
+  <img title="Java" alt="Java"height="50em" src="https://skillicons.dev/icons?i=java">
+  <img title="C" alt="Java"height="50em" src="https://skillicons.dev/icons?i=c">
+  <img title="Postgresql" alt="Postgres" height="50em" src="https://skillicons.dev/icons?i=postgres">
   <img title="Html" alt="Html" height="50em" src="https://skillicons.dev/icons?i=html">
   <img title="Css" alt="Css" height="50em" src="https://skillicons.dev/icons?i=css">
-  <img title="Sass" alt="Sass" height="50em" src="https://skillicons.dev/icons?i=sass">
-  <img title="Tailwind" alt="Tailwind" height="50em" src="https://skillicons.dev/icons?i=tailwind">
   <img title="Bootstrap" alt="Bootstrap" height="50em" src="https://skillicons.dev/icons?i=bootstrap">
   <img title="Git" alt="Git" height="50em" src="https://skillicons.dev/icons?i=git">
   <img title="Github" alt="Github" height="50em" src="https://skillicons.dev/icons?i=github">
 </div>
-
 
 
 ##
