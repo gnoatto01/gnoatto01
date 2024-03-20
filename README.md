@@ -5,12 +5,6 @@ Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempr
 
 - Em constante aprendizado, atualmente aprendendo Spring Boot e React 🧑‍💻
 
-##
-<div style="display: inline-block;">
-  <a href="https://github.com/gnoatto01">
-   <img height="190em" src="https://gnoatto01.vercel.app/api?username=gnoatto01&show_icons=true&theme=cobalt&count_private=true"/> 
-  <img height="190em" src="https://my-git-stats-henriquecode.vercel.app/api/top-langs/?username=gnoatto01&layout=compact&theme=cobalt&show_icons=true&count_private=true"/>
-</div>
     
 ##
 ### Skills
