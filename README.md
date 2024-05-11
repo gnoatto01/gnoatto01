@@ -3,7 +3,7 @@
 
 Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Comprometido com a entrega de soluções robustas e eficientes, estou pronto para enfrentar desafios e colaborar em projetos inovadores. Entusiasta de código limpo, boas práticas de desenvolvimento e colaboração em equipe.
 
-- Em constante aprendizado, atualmente aprendendo Spring Boot e Angular. 
+- Em constante aprendizado, atualmente aprendendo Spring Boot. 
 
     
 ##
@@ -16,7 +16,6 @@ Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempr
   <img title="Postgresql" alt="Postgres" height="50em" src="https://skillicons.dev/icons?i=postgres">
   <img title="Html" alt="Html" height="50em" src="https://skillicons.dev/icons?i=html">
   <img title="Css" alt="Css" height="50em" src="https://skillicons.dev/icons?i=css">
-  <img title="Angular" alt="Angular" height="50em" src="https://skillicons.dev/icons?i=angular">
   <img title="Git" alt="Git" height="50em" src="https://skillicons.dev/icons?i=git">
   <img title="Github" alt="Github" height="50em" src="https://skillicons.dev/icons?i=github">
   <img title="Linux" alt="Linux" height="50em" src="https://skillicons.dev/icons?i=linux">
