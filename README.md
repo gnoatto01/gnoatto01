@@ -15,7 +15,6 @@ Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempr
   <img title="C" alt="Java"height="50em" src="https://skillicons.dev/icons?i=c">
   <img title="Postgresql" alt="Postgres" height="50em" src="https://skillicons.dev/icons?i=postgres">
   <img title="Docker" alt="Docker" height="50em" src="https://skillicons.dev/icons?i=docker">
-   <img title="Kubernetes" alt="Kubernetes" height="50em" src="https://skillicons.dev/icons?i=kubernetes">
   <img title="Html" alt="Html" height="50em" src="https://skillicons.dev/icons?i=html">
   <img title="Css" alt="Css" height="50em" src="https://skillicons.dev/icons?i=css">
   <img title="React" alt="React" height="50em" src="https://skillicons.dev/icons?i=react">
