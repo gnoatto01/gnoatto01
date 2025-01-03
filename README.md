@@ -13,7 +13,7 @@ Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempr
   <img title="Java" alt="Java"height="50em" src="https://skillicons.dev/icons?i=java">
   <img title="Spring Boot" alt="Spring Boot"height="50em" src="https://skillicons.dev/icons?i=spring">
   <img title="C" alt="C"height="50em" src="https://skillicons.dev/icons?i=c">
-  <img title="C#" alt="C#"height="50em" src="https://skillicons.dev/icons?i=c#">
+  <img title="C#" alt="C#"height="50em" src="https://skillicons.dev/icons?i=cs">
   <img title="Postgresql" alt="Postgres" height="50em" src="https://skillicons.dev/icons?i=postgres">
   <img title="Docker" alt="Docker" height="50em" src="https://skillicons.dev/icons?i=docker">
   <img title="Html" alt="Html" height="50em" src="https://skillicons.dev/icons?i=html">
