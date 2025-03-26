@@ -3,7 +3,7 @@
 
 Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Comprometido com a entrega de soluções robustas e eficientes, estou pronto para enfrentar desafios e colaborar em projetos inovadores. Entusiasta de código limpo, boas práticas de desenvolvimento e colaboração em equipe.
 
-- Em constante aprendizado, atualmente me aprimorando em Spring Boot, React e Docker. 
+- Em constante aprendizado, atualmente me aprimorando em Spring Boot,React,Docker e Redis. 
 
     
 ##
@@ -16,6 +16,7 @@ Sou desenvolvedor Web, apaixonado por tudo o que envolve tecnologia. Estou sempr
   <img title="C#" alt="C#"height="50em" src="https://skillicons.dev/icons?i=cs">
   <img title="Postgresql" alt="Postgres" height="50em" src="https://skillicons.dev/icons?i=postgres">
   <img title="Docker" alt="Docker" height="50em" src="https://skillicons.dev/icons?i=docker">
+<img title="Redis" alt="Redis" height="50em" src="https://skillicons.dev/icons?i=redis">
   <img title="Html" alt="Html" height="50em" src="https://skillicons.dev/icons?i=html">
   <img title="Css" alt="Css" height="50em" src="https://skillicons.dev/icons?i=css">
   <img title="React" alt="React" height="50em" src="https://skillicons.dev/icons?i=react">
