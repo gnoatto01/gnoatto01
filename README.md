@@ -2,9 +2,6 @@
 
 
 Sou desenvolvedor Full stack, apaixonado por tudo o que envolve tecnologia. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Comprometido com a entrega de soluções robustas e eficientes, estou pronto para enfrentar desafios e colaborar em projetos inovadores. Entusiasta de código limpo, boas práticas de desenvolvimento e colaboração em equipe.
-
-- Em constante aprendizado
-
     
 ##
 ### Skills
