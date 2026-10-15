@@ -30,7 +30,7 @@ Gosto de transformar ideias em produtos, explorar novas tecnologias e aplicar bo
 
 ### Databases & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,flyway,linux,git,github" alt="PostgreSQL, Redis, Docker, FlyWay, Linux, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,github" alt="PostgreSQL, Redis, Docker, Linux, Git e GitHub" />
 </p>
 
 ---
